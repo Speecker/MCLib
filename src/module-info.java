@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author speecker
+ *
+ */
+module java {
+}
